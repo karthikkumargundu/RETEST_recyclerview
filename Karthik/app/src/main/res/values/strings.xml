@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Karthik</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ltgroup">L  and T Group</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcomenote">Welcome</string>
+    <string name="signup">Signup</string>
+    <string name="username">User Name</string>
+    <string name="error_message_email">Email Required</string>
+    <string name="name">Name</string>
+    <string name="error_message_password">Password is required</string>
+</resources>
